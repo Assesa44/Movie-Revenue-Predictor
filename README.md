@@ -1,2 +1,2 @@
 # Movie-Revenue-Predictor
-![Uploading image.png…]()
+![image.png](attachment:image.png)
