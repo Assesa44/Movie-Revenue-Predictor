@@ -1,7 +1,5 @@
-# Movie-Revenue-Predictor
-![image.png](attachment:image.png)
-
 # 🎬 Movie Revenue Prediction Project
+![I want a movie clipper board on some money (1)](https://github.com/user-attachments/assets/346a6a1f-ebe0-4110-a780-ccf6e60e8710)
 
 ## 📌 Project Overview
 
