@@ -82,3 +82,6 @@ Key preprocessing steps included:
 - statsmodels
 - scikit-learn
 - matplotlib, seaborn
+
+## Other Resources
+- You can access my tableau dashboard [here](https://public.tableau.com/views/Movie_Revenue_Prediction/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
